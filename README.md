@@ -1,4 +1,4 @@
-# Code for Experiments
+# Code for High-Dimensional Online Change Point Detection with Adaptive Thresholding and Interpretability
 
 ## Installation (Windows)
 Tested on Windows 11 with conda 24.11.2
